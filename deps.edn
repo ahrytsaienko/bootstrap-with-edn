@@ -10,5 +10,6 @@
                                                  log4j/log4j]}
   http-kit {:mvn/version "2.3.0"}
   compojure {:mvn/version "1.6.1"}
+  cheshire {:mvn/version "5.8.0"}
 
   me.raynes/fs {:mvn/version "1.4.6"}}}
